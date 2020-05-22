@@ -7,7 +7,7 @@ The Agora Linux Signaling-Tutorial Sample is an open-source demo that will help 
 With this sample app, you can:
 
 - Login signaling server
-- Send point to point message and receive point to point message off line
+- Send point to point message and receive point to point message offline
 - Display point to point history message
 - Join channel
 - Send channel message, receive channel message
