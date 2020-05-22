@@ -15,7 +15,7 @@ With this sample app, you can:
 - Logout Signaling server
 
 ## Running the App
-First, create a developer account at [Agora.io](https://dashboard.agora.io/signin/), and obtain an App ID.
+First, create a developer account at [Agora.io](https://dashboard.agora.io/signin/), create a new project, and obtain an App ID.
 Update "Agora-Signaling-Tutorial-macOS-Swift/Agora-Signaling-Tutorial/MainPage/KeyCenter.swift" with your App ID.
 
 ```
