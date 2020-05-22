@@ -15,7 +15,7 @@ With this sample app, you can:
 - Logout signaling server
 
 ## Running the App
-- step 1:create a developer account at [Agora.io](https://dashboard.agora.io/signin/), and obtain an App ID.
+- step 1:create a developer account at [Agora.io](https://dashboard.agora.io/signin/), create a new project, and obtain an App ID.
 - step 2:download the signaling sdk, extract the packet and copy 'libagorasig.so' to our project's 'libs' folder,and also copy 'agora_sig.h' to our project's 'include' folder.
 - step 3:open our project ‘src’ folder, run ./build.sh, and according to the prompt to compile,then run ./sig_demo according to the prompt please.
 
