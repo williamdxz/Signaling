@@ -15,7 +15,7 @@ With this sample app, you can:
 - Logout
 
 ## Running the App
-First, create a developer account at [Agora.io](https://dashboard.agora.io/signin/), and obtain an App ID.
+First, create a developer account at [Agora.io](https://dashboard.agora.io/signin/), create a project, and obtain an App ID.
 Update "static/agora.config.js" in the project root dir with your App ID. You may leave AGORA_CERTIFICATE_ID blank if you have not turned app certificate option on.
 
 ``` javascript
